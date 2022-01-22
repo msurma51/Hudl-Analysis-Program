@@ -1,0 +1,204 @@
+Run/Pass by D&D by Personnel (Open Field)
+
+11 Personnel: 67x	55.4%
+
+P&10		55.56% Run	5 Run / 4 Pass		56% Efficient
+1st&10		56.67% Run	17 Run / 13 Pass	60% Efficient
+2nd&1-3		88.89% Run	8 Run / 1 Pass		67% Efficient
+2nd&4-6		50.00% Run	3 Run / 3 Pass		83% Efficient
+2nd&7-9		60.00% Pass	2 Run / 3 Pass		40% Efficient
+2nd&10-12	83.33% Run	5 Run / 1 Pass		50% Efficient
+2nd&13+		100.00% Pass	0 Run / 2 Pass		50% Efficient
+Overall		59.70% Run	40 Run / 27 Pass	60% Efficient
+
+10 Personnel: 50x	41.3%
+
+P&10		66.67% Run	2 Run / 1 Pass		67% Efficient
+1st&10		56.00% Pass	11 Run / 14 Pass	36% Efficient
+2nd&1-3		100.00% Pass	0 Run / 2 Pass		50% Efficient
+2nd&4-6		66.67% Pass	1 Run / 2 Pass		100% Efficient
+2nd&7-9		75.00% Pass	2 Run / 6 Pass		50% Efficient
+2nd&10-12	66.67% Pass	1 Run / 2 Pass		33% Efficient
+2nd&13+		100.00% Pass	0 Run / 6 Pass		33% Efficient
+Overall		66.00% Pass	17 Run / 33 Pass	44% Efficient
+
+12 Personnel: 3x	2.5%
+
+P&10		100.00% Run	1 Run / 0 Pass		0% Efficient
+2nd&4-6		100.00% Run	1 Run / 0 Pass		0% Efficient
+2nd&7-9		100.00% Pass	0 Run / 1 Pass		100% Efficient
+Overall		66.67% Run	2 Run / 1 Pass		33% Efficient
+
+22T Personnel: 1x	0.8%
+
+1st&10		100.00% Run	1 Run / 0 Pass		0% Efficient
+Overall		100.00% Run	1 Run / 0 Pass		0% Efficient
+
+
+Run/Pass by D&D by Field Zone
+
+BACKED UP:
+
+P&10		83.33% Run	5 Run / 1 Pass		50% Efficient
+1st&10		85.71% Run	6 Run / 1 Pass		57% Efficient
+2nd&1-3		100.00% Run	3 Run / 0 Pass		100% Efficient
+2nd&4-6		100.00% Run	1 Run / 0 Pass		0% Efficient
+2nd&7-9		50.00% Run	2 Run / 2 Pass		25% Efficient
+2nd&10-12	50.00% Run	1 Run / 1 Pass		100% Efficient
+Overall		78.26% Run	18 Run / 5 Pass		57% Efficient
+
+UPFIELD:
+
+P&10		61.54% Run	8 Run / 5 Pass		54% Efficient
+1st&10		56.00% Pass	11 Run / 14 Pass	40% Efficient
+2nd&1-3		50.00% Run	2 Run / 2 Pass		75% Efficient
+2nd&4-6		50.00% Run	2 Run / 2 Pass		75% Efficient
+2nd&7-9		77.78% Pass	2 Run / 7 Pass		56% Efficient
+2nd&10-12	80.00% Run	4 Run / 1 Pass		20% Efficient
+2nd&13+		100.00% Pass	0 Run / 3 Pass		33% Efficient
+Overall		53.97% Pass	29 Run / 34 Pass	48% Efficient
+
+MIDFIELD:
+
+P&10		100.00% Pass	0 Run / 1 Pass		0% Efficient
+1st&10		60.87% Run	14 Run / 9 Pass		43% Efficient
+2nd&1-3		80.00% Run	4 Run / 1 Pass		40% Efficient
+2nd&4-6		60.00% Pass	2 Run / 3 Pass		80% Efficient
+2nd&7-9		50.00% Run	4 Run / 4 Pass		25% Efficient
+2nd&10-12	100.00% Pass	0 Run / 1 Pass		0% Efficient
+2nd&13+		80.00% Pass	1 Run / 4 Pass		40% Efficient
+Overall		52.08% Run	25 Run / 23 Pass	42% Efficient
+
+GREEN ZONE:
+
+1st&10		62.50% Pass	6 Run / 10 Pass		44% Efficient
+2nd&1-3		100.00% Run	2 Run / 0 Pass		50% Efficient
+2nd&4-6		66.67% Run	2 Run / 1 Pass		100% Efficient
+2nd&7-9		100.00% Pass	0 Run / 1 Pass		100% Efficient
+2nd&10-12	50.00% Run	2 Run / 2 Pass		75% Efficient
+2nd&13+		100.00% Pass	0 Run / 2 Pass		0% Efficient
+Overall		57.14% Pass	12 Run / 16 Pass	54% Efficient
+
+RED ZONE:
+
+P&10		100.00% Pass	0 Run / 1 Pass		0% Efficient
+1st&10		54.55% Run	12 Run / 10 Pass	36% Efficient
+2nd&4-6		100.00% Run	3 Run / 0 Pass		67% Efficient
+2nd&7-9		75.00% Run	3 Run / 1 Pass		50% Efficient
+2nd&10-12	66.67% Run	4 Run / 2 Pass		33% Efficient
+2nd&13+		100.00% Pass	0 Run / 1 Pass		0% Efficient
+Overall		59.46% Run	22 Run / 15 Pass	38% Efficient
+
+GOALLINE:
+
+2nd&1-3		50.00% Run	1 Run / 1 Pass		100% Efficient
+2nd&4-6		100.00% Run	1 Run / 0 Pass		100% Efficient
+Overall		66.67% Run	2 Run / 1 Pass		100% Efficient
+
+
+3rd Down Run/Pass by Distance and Field Zone
+
+3rd&1-2		100.00% Run	9 Run / 0 Pass		33% Efficient
+3rd&3		80.00% Pass	1 Run / 4 Pass		0% Efficient
+3rd&4-6		100.00% Pass	0 Run / 11 Pass		64% Efficient
+3rd&7-9		100.00% Pass	0 Run / 13 Pass		62% Efficient
+3rd&10-12	100.00% Pass	0 Run / 10 Pass		20% Efficient
+3rd&13-15	100.00% Pass	0 Run / 2 Pass		0% Efficient
+3rd&16+		100.00% Pass	0 Run / 6 Pass		17% Efficient
+4th&1-2		100.00% Run	2 Run / 0 Pass		100% Efficient
+4th&3+		100.00% Pass	0 Run / 2 Pass		50% Efficient
+
+BACKED UP:
+
+3rd&1-2		100.00% Run	2 Run / 0 Pass		0% Efficient
+3rd&4-6		100.00% Pass	0 Run / 2 Pass		100% Efficient
+3rd&7-9		100.00% Pass	0 Run / 1 Pass		100% Efficient
+3rd&16+		100.00% Pass	0 Run / 1 Pass		0% Efficient
+
+UPFIELD:
+
+3rd&1-2		100.00% Run	3 Run / 0 Pass		67% Efficient
+3rd&3		100.00% Pass	0 Run / 2 Pass		0% Efficient
+3rd&4-6		100.00% Pass	0 Run / 1 Pass		0% Efficient
+3rd&7-9		100.00% Pass	0 Run / 6 Pass		33% Efficient
+3rd&10-12	100.00% Pass	0 Run / 3 Pass		0% Efficient
+3rd&13-15	100.00% Pass	0 Run / 1 Pass		0% Efficient
+3rd&16+		100.00% Pass	0 Run / 1 Pass		100% Efficient
+4th&3+		100.00% Pass	0 Run / 1 Pass		0% Efficient
+
+MIDFIELD:
+
+3rd&1-2		100.00% Run	1 Run / 0 Pass		0% Efficient
+3rd&3		100.00% Pass	0 Run / 2 Pass		0% Efficient
+3rd&4-6		100.00% Pass	0 Run / 3 Pass		33% Efficient
+3rd&7-9		100.00% Pass	0 Run / 4 Pass		75% Efficient
+3rd&10-12	100.00% Pass	0 Run / 3 Pass		0% Efficient
+3rd&16+		100.00% Pass	0 Run / 2 Pass		0% Efficient
+
+GREEN ZONE:
+
+3rd&1-2		100.00% Run	1 Run / 0 Pass		0% Efficient
+3rd&3		100.00% Run	1 Run / 0 Pass		0% Efficient
+3rd&4-6		100.00% Pass	0 Run / 1 Pass		100% Efficient
+3rd&16+		100.00% Pass	0 Run / 2 Pass		0% Efficient
+4th&1-2		100.00% Run	1 Run / 0 Pass		100% Efficient
+4th&3+		100.00% Pass	0 Run / 1 Pass		100% Efficient
+
+RED ZONE:
+
+3rd&1-2		100.00% Run	1 Run / 0 Pass		0% Efficient
+3rd&4-6		100.00% Pass	0 Run / 4 Pass		75% Efficient
+3rd&7-9		100.00% Pass	0 Run / 2 Pass		100% Efficient
+3rd&10-12	100.00% Pass	0 Run / 4 Pass		50% Efficient
+3rd&13-15	100.00% Pass	0 Run / 1 Pass		0% Efficient
+4th&1-2		100.00% Run	1 Run / 0 Pass		100% Efficient
+
+GOALLINE:
+
+3rd&1-2		100.00% Run	1 Run / 0 Pass		100% Efficient
+
+
+Run/Pass after Inefficient 1st Down Play or Explosive Play (Open Field)
+
+After failed run:	58.82% Pass		7 Run / 10 Pass
+After failed pass:	58.82% Pass		7 Run / 10 Pass
+After inefficient pass:	64.71% Pass		6 Run / 11 Pass
+
+After explosive run:	60.00% Run		3 Run / 2 Pass
+After explosive pass:	66.67% Run		4 Run / 2 Pass
+
+Explosive Runs:
+
+Stevenson University: 44, 109
+Wilkes University: 10, 24, 46
+
+Explosive Passes:
+
+Widener University: 17, 123
+Stevenson University: 26, 43, 54, 92
+Wilkes University: 64
+Misericordia University: 78
+
+
+Run/Pass Average and Efficiency
+
+Run Play :
+IZ:			54x	1.7 Avg		38.9% Efficient
+PUNCH:			15x	7.4 Avg		80.0% Efficient
+POWER:			13x	3.8 Avg		46.2% Efficient
+OZ:			9x	0.9 Avg		33.3% Efficient
+
+Route Concept :
+VERTS:			30x	8.9 Avg		33.3% Efficient
+SHILO:			9x	4.4 Avg		33.3% Efficient
+No value:		8x	5.8 Avg		62.5% Efficient
+
+RPO :
+IZ:			27x	3.8 Avg		44.4% Efficient
+
+IZ TAG :
+READ:			22x	2.5 Avg		45.5% Efficient
+No value:		21x	4.1 Avg		38.1% Efficient
+LOCK:			11x	-3.7 Avg	18.2% Efficient
+BASE:			11x	3.2 Avg		45.5% Efficient
+

@@ -1,0 +1,3344 @@
+{
+    "plays": [
+        {
+            "offenseInfo": "1  MOF  Twin-Pro Wing Lt B Gun Dropback Fin Corner Flat Post Hitch",
+            "defenseInfo": "Over Bomb Zero --- ",
+            "hashType": 1,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": -8,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": -4,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": 4,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": 8,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": 0,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": 0,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": 6,
+                    "y": 5
+                },
+                {
+                    "tag": "S3",
+                    "pose": "rbStance",
+                    "x": 16,
+                    "y": 2
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": -36,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "linemanStance",
+                    "x": 12,
+                    "y": 1
+                },
+                {
+                    "tag": "S6",
+                    "pose": "wrStance",
+                    "x": -12,
+                    "y": 2
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": 5,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": -1,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": -9,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": 13,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": -9,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": 0,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": 9,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": -22,
+                    "y": -8
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": 13,
+                    "y": -8
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": -34,
+                    "y": -8
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": 19,
+                    "y": -5
+                }
+            ]
+        },
+        {
+            "offenseInfo": "2  MOF  Twin-Tight Lt C Flip Gun MOTION (PRO) PA Seam Out Flat Block Slant",
+            "defenseInfo": "Over Bow C Zero --- ",
+            "hashType": 1,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": -8,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": -4,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": 4,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": 8,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": 0,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": 0,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": -6,
+                    "y": 5
+                },
+                {
+                    "tag": "S3",
+                    "pose": "rbStance",
+                    "x": 6,
+                    "y": 5
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": -34,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "linemanStance",
+                    "x": 12,
+                    "y": 1
+                },
+                {
+                    "tag": "S6",
+                    "pose": "wrStance",
+                    "x": -20,
+                    "y": 2
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": 5,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": -1,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": -9,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": 12,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": -5,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": 3,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": 9,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": -9,
+                    "y": -5
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": -21,
+                    "y": -8
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": -32,
+                    "y": -8
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": 14,
+                    "y": -5
+                }
+            ]
+        },
+        {
+            "offenseInfo": "3  LT  Twin Rt C Gun Dropback Post Post Wheel Wheel Seam",
+            "defenseInfo": "Over Wham Zero --- ",
+            "hashType": 0,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": -26,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": -22,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": -14,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": -10,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": -18,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": -18,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": -24,
+                    "y": 5
+                },
+                {
+                    "tag": "S3",
+                    "pose": "rbStance",
+                    "x": -12,
+                    "y": 5
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": -44,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "wrStance",
+                    "x": -3,
+                    "y": 2
+                },
+                {
+                    "tag": "S6",
+                    "pose": "wrStance",
+                    "x": 20,
+                    "y": 1
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": -13,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": -19,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": -27,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": -6,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": -13,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": -21,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": -27,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": -9,
+                    "y": -5
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": 4,
+                    "y": -8
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": 18,
+                    "y": -8
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": -42,
+                    "y": -8
+                }
+            ]
+        },
+        {
+            "offenseInfo": "4  RT  Trips Rt A Gun Sprint Flood",
+            "defenseInfo": "Over Bullet B Lock --- ",
+            "hashType": 2,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": 10,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": 14,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": 22,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": 26,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": 18,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": 18,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": 24,
+                    "y": 5
+                },
+                {
+                    "tag": "S3",
+                    "pose": "wrStance",
+                    "x": 33,
+                    "y": 2
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": -20,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "wrStance",
+                    "x": 38,
+                    "y": 2
+                },
+                {
+                    "tag": "S6",
+                    "pose": "wrStance",
+                    "x": 44,
+                    "y": 1
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": 23,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": 17,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": 9,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": 30,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": 32,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": 20,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": 12,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": 39,
+                    "y": -5
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": 5,
+                    "y": -12
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": 42,
+                    "y": -8
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": -18,
+                    "y": -8
+                }
+            ]
+        },
+        {
+            "offenseInfo": "5  LT  Twin Wing-Pro Lt B Gun MOTION (H Flip) Dropback Slant Flat Dig Shallow Seam",
+            "defenseInfo": "Under Missile Tres Tyson --- ",
+            "hashType": 0,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": -26,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": -22,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": -14,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": -10,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": -18,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": -18,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": -12,
+                    "y": 5
+                },
+                {
+                    "tag": "S3",
+                    "pose": "rbStance",
+                    "x": -30,
+                    "y": 2
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": -44,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "linemanStance",
+                    "x": -6,
+                    "y": 1
+                },
+                {
+                    "tag": "S6",
+                    "pose": "wrStance",
+                    "x": 11,
+                    "y": 2
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": -23,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": -17,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": -9,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": -30,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": -9,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": -18,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": -27,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": -5,
+                    "y": -6
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": -33,
+                    "y": -6
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": 16,
+                    "y": -8
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": -42,
+                    "y": -8
+                }
+            ]
+        },
+        {
+            "offenseInfo": "6  RT  Twin-Twin Lt A Gun Zone Read Bubble",
+            "defenseInfo": "Under Whip C Lock --- ",
+            "hashType": 2,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": 10,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": 14,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": 22,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": 26,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": 18,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": 18,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": 12,
+                    "y": 5
+                },
+                {
+                    "tag": "S3",
+                    "pose": "wrStance",
+                    "x": 36,
+                    "y": 2
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": 44,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "wrStance",
+                    "x": -5,
+                    "y": 2
+                },
+                {
+                    "tag": "S6",
+                    "pose": "wrStance",
+                    "x": -20,
+                    "y": 1
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": 23,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": 17,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": 9,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": 30,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": 12,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": 20,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": 37,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": -6,
+                    "y": -5
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": 5,
+                    "y": -12
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": -18,
+                    "y": -8
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": 42,
+                    "y": -8
+                }
+            ]
+        },
+        {
+            "offenseInfo": "7  RT  Twin Lt C Flip Gun Iso Str",
+            "defenseInfo": "Under Buck Bird --- ",
+            "hashType": 2,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": 10,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": 14,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": 22,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": 26,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": 18,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": 18,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": 12,
+                    "y": 5
+                },
+                {
+                    "tag": "S3",
+                    "pose": "rbStance",
+                    "x": 24,
+                    "y": 5
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": 44,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "wrStance",
+                    "x": -3,
+                    "y": 2
+                },
+                {
+                    "tag": "S6",
+                    "pose": "wrStance",
+                    "x": -20,
+                    "y": 1
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": 23,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": 17,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": 9,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": 30,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": 9,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": 18,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": 27,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": -4,
+                    "y": -5
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": 5,
+                    "y": -12
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": -18,
+                    "y": -8
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": 42,
+                    "y": -8
+                }
+            ]
+        },
+        {
+            "offenseInfo": "8  LT  Pro Wing Lt C Gun Bootleg",
+            "defenseInfo": "Under Buck Bird --- ",
+            "hashType": 0,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": -26,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": -22,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": -14,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": -10,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": -18,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": -18,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": -12,
+                    "y": 5
+                },
+                {
+                    "tag": "S3",
+                    "pose": "rbStance",
+                    "x": -24,
+                    "y": 5
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": 20,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "linemanStance",
+                    "x": -30,
+                    "y": 1
+                },
+                {
+                    "tag": "S6",
+                    "pose": "rbStance",
+                    "x": -34,
+                    "y": 2
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": -13,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": -19,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": -27,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": -6,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": -27,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": -18,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": -9,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": -35,
+                    "y": -2
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": -5,
+                    "y": -12
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": -35,
+                    "y": -6
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": 18,
+                    "y": -8
+                }
+            ]
+        },
+        {
+            "offenseInfo": "9  LT  Pro Wing Rt C Gun Power Rt to TB",
+            "defenseInfo": "Over Whip C Bird --- ",
+            "hashType": 0,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": -26,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": -22,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": -14,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": -10,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": -18,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": -18,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": -24,
+                    "y": 5
+                },
+                {
+                    "tag": "S3",
+                    "pose": "rbStance",
+                    "x": -12,
+                    "y": 5
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": -44,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "linemanStance",
+                    "x": -6,
+                    "y": 1
+                },
+                {
+                    "tag": "S6",
+                    "pose": "rbStance",
+                    "x": -2,
+                    "y": 2
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": -13,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": -19,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": -27,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": -5,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": -9,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": -18,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": -27,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": -1,
+                    "y": -2
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": -5,
+                    "y": -12
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": -1,
+                    "y": -6
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": -42,
+                    "y": -8
+                }
+            ]
+        },
+        {
+            "offenseInfo": "10  LT  Tight-Tight Rt Power Plus Gun Offset Counter",
+            "defenseInfo": "Over Answer --- ",
+            "hashType": 0,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": -26,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": -22,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": -14,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": -10,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": -18,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": -18,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": -18,
+                    "y": 7
+                },
+                {
+                    "tag": "S3",
+                    "pose": "rbStance",
+                    "x": -14,
+                    "y": 4
+                },
+                {
+                    "tag": "S4",
+                    "pose": "linemanStance",
+                    "x": -30,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "linemanStance",
+                    "x": -6,
+                    "y": 1
+                },
+                {
+                    "tag": "S6",
+                    "pose": "rbStance",
+                    "x": -10,
+                    "y": 4
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": -13,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": -19,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": -27,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": -7,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": -9,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": -18,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": -27,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": -5,
+                    "y": -1
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": -5,
+                    "y": -12
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": -2,
+                    "y": -6
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": -31,
+                    "y": -1
+                }
+            ]
+        },
+        {
+            "offenseInfo": "11  RT  Tight-Tight Lt Power Plus Gun PA Corner Flat Block Block Drag",
+            "defenseInfo": "Over Answer --- ",
+            "hashType": 2,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": 10,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": 14,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": 22,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": 26,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": 18,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": 18,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": 18,
+                    "y": 7
+                },
+                {
+                    "tag": "S3",
+                    "pose": "rbStance",
+                    "x": 14,
+                    "y": 4
+                },
+                {
+                    "tag": "S4",
+                    "pose": "linemanStance",
+                    "x": 30,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "linemanStance",
+                    "x": 6,
+                    "y": 1
+                },
+                {
+                    "tag": "S6",
+                    "pose": "rbStance",
+                    "x": 10,
+                    "y": 4
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": 13,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": 19,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": 27,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": 7,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": 9,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": 18,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": 27,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": 5,
+                    "y": -1
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": 5,
+                    "y": -12
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": 2,
+                    "y": -6
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": 31,
+                    "y": -1
+                }
+            ]
+        },
+        {
+            "offenseInfo": "12  MOF  Twin-Twin Wing Rt A Gun Bootleg Seam Out Fake Flat Post",
+            "defenseInfo": "Over Answer --- ",
+            "hashType": 1,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": -8,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": -4,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": 4,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": 8,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": 0,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": 0,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": 6,
+                    "y": 5
+                },
+                {
+                    "tag": "S3",
+                    "pose": "wrStance",
+                    "x": 19,
+                    "y": 2
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": -36,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "rbStance",
+                    "x": -12,
+                    "y": 2
+                },
+                {
+                    "tag": "S6",
+                    "pose": "wrStance",
+                    "x": 36,
+                    "y": 1
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": -5,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": 9,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": -12,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": 6,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": -2,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": -13,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": 20,
+                    "y": -5
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": 0,
+                    "y": -12
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": 34,
+                    "y": -8
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": -34,
+                    "y": -8
+                }
+            ]
+        },
+        {
+            "offenseInfo": "13  MOF  Trips Wing-Twin Rt Gun MOTION (T JET) Q Counter",
+            "defenseInfo": "Under Sticks --- ",
+            "hashType": 1,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": -8,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": -4,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": 4,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": 8,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": 0,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": 0,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "wrStance",
+                    "x": -20,
+                    "y": 2
+                },
+                {
+                    "tag": "S3",
+                    "pose": "rbStance",
+                    "x": 12,
+                    "y": 2
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": -36,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "wrStance",
+                    "x": 24,
+                    "y": 2
+                },
+                {
+                    "tag": "S6",
+                    "pose": "wrStance",
+                    "x": 36,
+                    "y": 1
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": -5,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": 9,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": -12,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": 13,
+                    "y": -2
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": 0,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": -21,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": 25,
+                    "y": -5
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": 0,
+                    "y": -12
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": 34,
+                    "y": -8
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": -34,
+                    "y": -8
+                }
+            ]
+        },
+        {
+            "offenseInfo": "14  RT  Twin Wing-Pro Rt A Gun MOTION (H Flip) Bucksweep",
+            "defenseInfo": "Under Sticks --- ",
+            "hashType": 2,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": 10,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": 14,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": 22,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": 26,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": 18,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": 18,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": 24,
+                    "y": 5
+                },
+                {
+                    "tag": "S3",
+                    "pose": "rbStance",
+                    "x": 30,
+                    "y": 2
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": 44,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "linemanStance",
+                    "x": 6,
+                    "y": 1
+                },
+                {
+                    "tag": "S6",
+                    "pose": "wrStance",
+                    "x": -18,
+                    "y": 2
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": 23,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": 17,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": 9,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": 30,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": 12,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": 20,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": 31,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": 5,
+                    "y": -1
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": 5,
+                    "y": -12
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": -16,
+                    "y": -8
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": 42,
+                    "y": -8
+                }
+            ]
+        },
+        {
+            "offenseInfo": "15  LT  Twin Rt C Gun MOTION (Y) Wide Lead",
+            "defenseInfo": "Over Sticks Low --- ",
+            "hashType": 0,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": -26,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": -22,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": -14,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": -10,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": -18,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": -18,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": -24,
+                    "y": 5
+                },
+                {
+                    "tag": "S3",
+                    "pose": "rbStance",
+                    "x": -12,
+                    "y": 5
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": -44,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "wrStance",
+                    "x": 3,
+                    "y": 2
+                },
+                {
+                    "tag": "S6",
+                    "pose": "wrStance",
+                    "x": 20,
+                    "y": 1
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": -13,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": -19,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": -27,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": -6,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": -9,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": -18,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": -27,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": 4,
+                    "y": -5
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": -5,
+                    "y": -12
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": 18,
+                    "y": -8
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": -42,
+                    "y": -8
+                }
+            ]
+        },
+        {
+            "offenseInfo": "16  MOF  Indy Wing Lt B Gun Dropback Fin Shallow Dig Swing Post",
+            "defenseInfo": "Over Master --- ",
+            "hashType": 1,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": -8,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": -4,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": 4,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": 8,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": 0,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": 0,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": 6,
+                    "y": 5
+                },
+                {
+                    "tag": "S3",
+                    "pose": "rbStance",
+                    "x": -16,
+                    "y": 2
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": 36,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "linemanStance",
+                    "x": -12,
+                    "y": 1
+                },
+                {
+                    "tag": "S6",
+                    "pose": "wrStance",
+                    "x": -36,
+                    "y": 2
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": -5,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": 9,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": -13,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": -9,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": 0,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": 9,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": -17,
+                    "y": -6
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": -13,
+                    "y": -8
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": -34,
+                    "y": -8
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": 34,
+                    "y": -8
+                }
+            ]
+        },
+        {
+            "offenseInfo": "17  MOF  Twin-Pro Wing Lt B Gun Buck Sweep",
+            "defenseInfo": "Over Master Stack --- ",
+            "hashType": 1,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": -8,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": -4,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": 4,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": 8,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": 0,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": 0,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": 6,
+                    "y": 5
+                },
+                {
+                    "tag": "S3",
+                    "pose": "rbStance",
+                    "x": 16,
+                    "y": 2
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": -36,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "linemanStance",
+                    "x": 12,
+                    "y": 1
+                },
+                {
+                    "tag": "S6",
+                    "pose": "wrStance",
+                    "x": -22,
+                    "y": 2
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": 5,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": -1,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": -9,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": 10,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": -9,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": 0,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": 9,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": -22,
+                    "y": -7
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": 13,
+                    "y": -1
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": -34,
+                    "y": -8
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": 16,
+                    "y": -7
+                }
+            ]
+        },
+        {
+            "offenseInfo": "18  RT  Indy Lt A Gun MOTION (Leave Str) Slant Slant Slant Wheel Post",
+            "defenseInfo": "Under Master Bot --- ",
+            "hashType": 2,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": 10,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": 14,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": 22,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": 26,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": 18,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": 18,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": 12,
+                    "y": 5
+                },
+                {
+                    "tag": "S3",
+                    "pose": "wrStance",
+                    "x": -5,
+                    "y": 2
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": 44,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "linemanStance",
+                    "x": 6,
+                    "y": 1
+                },
+                {
+                    "tag": "S6",
+                    "pose": "wrStance",
+                    "x": -20,
+                    "y": 2
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": 23,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": 17,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": 9,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": 30,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": 4,
+                    "y": -1
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": 18,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": 28,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": -5,
+                    "y": -7
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": 6,
+                    "y": -7
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": -18,
+                    "y": -8
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": 42,
+                    "y": -8
+                }
+            ]
+        },
+        {
+            "offenseInfo": "19  MOF  Split-Tight Lt Power Plus Wk Gun Power Stay to TB",
+            "defenseInfo": "Under Master --- ",
+            "hashType": 1,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": -8,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": -4,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": 4,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": 8,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": 0,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStanceGun",
+                    "x": 0,
+                    "y": 5
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": 0,
+                    "y": 7
+                },
+                {
+                    "tag": "S3",
+                    "pose": "rbStance",
+                    "x": 4,
+                    "y": 4
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": -36,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "linemanStance",
+                    "x": 12,
+                    "y": 1
+                },
+                {
+                    "tag": "S6",
+                    "pose": "rbStance",
+                    "x": 8,
+                    "y": 4
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": -5,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": 1,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": 9,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": -12,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": 5,
+                    "y": -5
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": -3,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": -9,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": 13,
+                    "y": -1
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": 11,
+                    "y": -5
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": 14,
+                    "y": -7
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": -34,
+                    "y": -8
+                }
+            ]
+        },
+        {
+            "offenseInfo": "20  LT  Over Twin Wing-Wing Rt Navy MOTION (Orbit) Wide Option Rt",
+            "defenseInfo": "Under Sticks Robber --- GAME PLAN (Recoginize as Utah)",
+            "hashType": 0,
+            "players": [
+                {
+                    "tag": "L1",
+                    "pose": "linemanStance",
+                    "x": -26,
+                    "y": 1
+                },
+                {
+                    "tag": "L2",
+                    "pose": "linemanStance",
+                    "x": -22,
+                    "y": 1
+                },
+                {
+                    "tag": "L3",
+                    "pose": "linemanStance",
+                    "x": -14,
+                    "y": 1
+                },
+                {
+                    "tag": "L4",
+                    "pose": "linemanStance",
+                    "x": -10,
+                    "y": 1
+                },
+                {
+                    "tag": "C",
+                    "pose": "linemanStance",
+                    "x": -18,
+                    "y": 1
+                },
+                {
+                    "tag": "S1",
+                    "pose": "qbStance",
+                    "x": -18,
+                    "y": 2
+                },
+                {
+                    "tag": "S2",
+                    "pose": "rbStance",
+                    "x": -18,
+                    "y": 4
+                },
+                {
+                    "tag": "S3",
+                    "pose": "rbStance",
+                    "x": -30,
+                    "y": 2
+                },
+                {
+                    "tag": "S4",
+                    "pose": "wrStance",
+                    "x": 20,
+                    "y": 1
+                },
+                {
+                    "tag": "S5",
+                    "pose": "linemanStance",
+                    "x": -6,
+                    "y": 1
+                },
+                {
+                    "tag": "S6",
+                    "pose": "rbStance",
+                    "x": -2,
+                    "y": 2
+                },
+                {
+                    "tag": "D1",
+                    "pose": "linemanStance",
+                    "x": -23,
+                    "y": -1
+                },
+                {
+                    "tag": "D2",
+                    "pose": "linemanStance",
+                    "x": -17,
+                    "y": -1
+                },
+                {
+                    "tag": "D3",
+                    "pose": "linemanStance",
+                    "x": -9,
+                    "y": -1
+                },
+                {
+                    "tag": "D4",
+                    "pose": "linemanStance",
+                    "x": -30,
+                    "y": -1
+                },
+                {
+                    "tag": "D5",
+                    "pose": "rbStance",
+                    "x": -5,
+                    "y": -1
+                },
+                {
+                    "tag": "D6",
+                    "pose": "rbStance",
+                    "x": -12,
+                    "y": -5
+                },
+                {
+                    "tag": "D7",
+                    "pose": "rbStance",
+                    "x": -20,
+                    "y": -5
+                },
+                {
+                    "tag": "D8",
+                    "pose": "rbStance",
+                    "x": -1,
+                    "y": -2
+                },
+                {
+                    "tag": "D9",
+                    "pose": "rbStance",
+                    "x": -5,
+                    "y": -12
+                },
+                {
+                    "tag": "D10",
+                    "pose": "rbStance",
+                    "x": 18,
+                    "y": -8
+                },
+                {
+                    "tag": "D11",
+                    "pose": "rbStance",
+                    "x": -31,
+                    "y": -5
+                }
+            ]
+        }
+    ],
+    "playInfos": [
+        {
+            "l1TimelineName": "pass_block_left",
+            "l2TimelineName": "qb_handoff_right_boot",
+            "l3TimelineName": "pass_block_right",
+            "l4TimelineName": "pass_block_right",
+            "cTimelineName": "square_engage_left",
+            "s1TimelineName": "qb_handoff_right_boot",
+            "s2TimelineName": "fake_wheel_left",
+            "s3TimelineName": "hitch_left",
+            "s4TimelineName": "post_right",
+            "s5TimelineName": "post_corner_left",
+            "s6TimelineName": "shallow_right",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "",
+            "flashMessageTime": 0.0,
+            "playerMotions": [
+                {
+                    "tag": "S3",
+                    "motions": [
+                        {
+                            "x": -4,
+                            "y": 2,
+                            "time": 2.4000000953674318,
+                            "motionType": 2
+                        },
+                        {
+                            "x": 3,
+                            "y": 2,
+                            "time": 1.2000000476837159,
+                            "motionType": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "l1TimelineName": "block_left",
+            "l2TimelineName": "block_right",
+            "l3TimelineName": "block_right",
+            "l4TimelineName": "pass_block_right",
+            "cTimelineName": "block_left",
+            "s1TimelineName": "qb_handoff_left",
+            "s2TimelineName": "get_tight_handoff_right_reverse",
+            "s3TimelineName": "release_flat_right",
+            "s4TimelineName": "slant_right",
+            "s5TimelineName": "ten_right",
+            "s6TimelineName": "seam",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "",
+            "flashMessageTime": 0.0,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "pass_block_left",
+            "l2TimelineName": "square_engage_right",
+            "l3TimelineName": "pass_block_right",
+            "l4TimelineName": "pass_block_right",
+            "cTimelineName": "square_engage_left",
+            "s1TimelineName": "qb_dropback",
+            "s2TimelineName": "flat_wheel_left",
+            "s3TimelineName": "flat_wheel_right",
+            "s4TimelineName": "fifthteen_right",
+            "s5TimelineName": "post_corner_left",
+            "s6TimelineName": "post_corner_left",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "",
+            "flashMessageTime": 0.0,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "pass_block_left",
+            "l2TimelineName": "square_engage_right",
+            "l3TimelineName": "block_right",
+            "l4TimelineName": "block_right",
+            "cTimelineName": "square_engage_left",
+            "s1TimelineName": "pitch_relation_right",
+            "s2TimelineName": "gap_over_lead_right",
+            "s3TimelineName": "short_right",
+            "s4TimelineName": "slant_right",
+            "s5TimelineName": "fifthteen_right",
+            "s6TimelineName": "seam",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "Sprint",
+            "flashMessageTime": 0.5,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "pass_block_left",
+            "l2TimelineName": "pass_block_left",
+            "l3TimelineName": "square_engage_left",
+            "l4TimelineName": "pass_block_right",
+            "cTimelineName": "square_engage_right",
+            "s1TimelineName": "qb_dropback",
+            "s2TimelineName": "rb_flat_right",
+            "s3TimelineName": "shallow_left",
+            "s4TimelineName": "seam",
+            "s5TimelineName": "flat_wheel_right",
+            "s6TimelineName": "ten_left",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "",
+            "flashMessageTime": 0.0,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "fill_window_right",
+            "l2TimelineName": "block_right",
+            "l3TimelineName": "block_right",
+            "l4TimelineName": "block_right",
+            "cTimelineName": "square_engage_left",
+            "s1TimelineName": "qb_handoff_left_zr",
+            "s2TimelineName": "get_tight_handoff_right",
+            "s3TimelineName": "stalk_left",
+            "s4TimelineName": "stalk_left",
+            "s5TimelineName": "pitch_relation_left",
+            "s6TimelineName": "stalk_left",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "Run",
+            "flashMessageTime": 0.699999988079071,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "block_left",
+            "l2TimelineName": "block_left",
+            "l3TimelineName": "block_right",
+            "l4TimelineName": "block_right",
+            "cTimelineName": "block_left",
+            "s1TimelineName": "qb_handoff_left",
+            "s2TimelineName": "get_tight_handoff_right",
+            "s3TimelineName": "gap_over_lead_left",
+            "s4TimelineName": "stalk_left",
+            "s5TimelineName": "stalk_right",
+            "s6TimelineName": "stalk_right",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "Run",
+            "flashMessageTime": 0.699999988079071,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "block_left",
+            "l2TimelineName": "block_left",
+            "l3TimelineName": "block_left",
+            "l4TimelineName": "block_left",
+            "cTimelineName": "block_left",
+            "s1TimelineName": "qb_handoff_right_boot",
+            "s2TimelineName": "get_tight_handoff_left",
+            "s3TimelineName": "release_flat_right",
+            "s4TimelineName": "arc_seam_right",
+            "s5TimelineName": "drag_right",
+            "s6TimelineName": "post_corner_right",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "Bootleg",
+            "flashMessageTime": 0.699999988079071,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "block_left",
+            "l2TimelineName": "kick_pull_right",
+            "l3TimelineName": "square_engage_right",
+            "l4TimelineName": "block_left",
+            "cTimelineName": "block_left",
+            "s1TimelineName": "qb_handoff_left",
+            "s2TimelineName": "get_tight_handoff_right",
+            "s3TimelineName": "kick_out_right",
+            "s4TimelineName": "stalk_right",
+            "s5TimelineName": "fill_window_left",
+            "s6TimelineName": "block_right",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "Run",
+            "flashMessageTime": 0.699999988079071,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "square_engage_left",
+            "l2TimelineName": "block_right",
+            "l3TimelineName": "kick_pull_left",
+            "l4TimelineName": "block_left",
+            "cTimelineName": "seal_right",
+            "s1TimelineName": "qb_handoff_right",
+            "s2TimelineName": "get_tight_handoff_right",
+            "s3TimelineName": "split_kick_out_left",
+            "s4TimelineName": "block_right",
+            "s5TimelineName": "block_left",
+            "s6TimelineName": "split_kick_out_left",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "Run",
+            "flashMessageTime": 0.699999988079071,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "block_left",
+            "l2TimelineName": "block_left",
+            "l3TimelineName": "block_left",
+            "l4TimelineName": "block_right",
+            "cTimelineName": "square_engage_right",
+            "s1TimelineName": "qb_handoff_left",
+            "s2TimelineName": "get_tight_handoff_left",
+            "s3TimelineName": "rb_pass_block_forward",
+            "s4TimelineName": "block_right",
+            "s5TimelineName": "post_corner_left",
+            "s6TimelineName": "rb_flat_left",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "",
+            "flashMessageTime": 0.0,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "block_left",
+            "l2TimelineName": "block_left",
+            "l3TimelineName": "block_left",
+            "l4TimelineName": "block_left",
+            "cTimelineName": "block_left",
+            "s1TimelineName": "qb_handoff_right_boot",
+            "s2TimelineName": "get_tight_handoff_left",
+            "s3TimelineName": "fifthteen_right",
+            "s4TimelineName": "post_corner_right",
+            "s5TimelineName": "super_shallow_right",
+            "s6TimelineName": "seam",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "Bootleg",
+            "flashMessageTime": 0.699999988079071,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "block_right",
+            "l2TimelineName": "square_engage_left",
+            "l3TimelineName": "kick_pull_left",
+            "l4TimelineName": "block_left",
+            "cTimelineName": "block_right",
+            "s1TimelineName": "qb_wide_handoff_release_left",
+            "s2TimelineName": "get_wide_handoff_right",
+            "s3TimelineName": "kick_pull_left",
+            "s4TimelineName": "stalk_right",
+            "s5TimelineName": "stalk_left",
+            "s6TimelineName": "stalk_left",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "Run",
+            "flashMessageTime": 0.699999988079071,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "fill_window_right",
+            "l2TimelineName": "kick_pull_left",
+            "l3TimelineName": "kick_pull_left",
+            "l4TimelineName": "block_left",
+            "cTimelineName": "block_left",
+            "s1TimelineName": "qb_wide_handoff_release_right",
+            "s2TimelineName": "get_wide_handoff_left",
+            "s3TimelineName": "block_right",
+            "s4TimelineName": "stalk_left",
+            "s5TimelineName": "block_right",
+            "s6TimelineName": "stalk_right",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "Run",
+            "flashMessageTime": 0.699999988079071,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "block_right",
+            "l2TimelineName": "block_right",
+            "l3TimelineName": "block_right",
+            "l4TimelineName": "block_right",
+            "cTimelineName": "block_right",
+            "s1TimelineName": "qb_wide_handoff",
+            "s2TimelineName": "get_wide_handoff_right",
+            "s3TimelineName": "arc_release_wide_right",
+            "s4TimelineName": "stalk_right",
+            "s5TimelineName": "stalk_right",
+            "s6TimelineName": "stalk_left",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "Run",
+            "flashMessageTime": 0.699999988079071,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "pass_block_left",
+            "l2TimelineName": "pass_block_left",
+            "l3TimelineName": "square_engage_left",
+            "l4TimelineName": "pass_block_right",
+            "cTimelineName": "square_engage_right",
+            "s1TimelineName": "qb_dropback",
+            "s2TimelineName": "pitch_relation_right",
+            "s3TimelineName": "shallow_right",
+            "s4TimelineName": "post_corner_left",
+            "s5TimelineName": "post_corner_left",
+            "s6TimelineName": "five_in",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "",
+            "flashMessageTime": 0.0,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "fill_window_right",
+            "l2TimelineName": "kick_pull_right",
+            "l3TimelineName": "kick_pull_right",
+            "l4TimelineName": "block_left",
+            "cTimelineName": "block_left",
+            "s1TimelineName": "qb_handoff_right",
+            "s2TimelineName": "get_tight_handoff_left_reverse",
+            "s3TimelineName": "block_left",
+            "s4TimelineName": "stalk_right",
+            "s5TimelineName": "block_left",
+            "s6TimelineName": "stalk_right",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "Run",
+            "flashMessageTime": 0.699999988079071,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "pass_block_left",
+            "l2TimelineName": "square_engage_right",
+            "l3TimelineName": "pass_block_right",
+            "l4TimelineName": "pass_block_right",
+            "cTimelineName": "square_engage_left",
+            "s1TimelineName": "qb_dropbacl",
+            "s2TimelineName": "arc_seam_left",
+            "s3TimelineName": "slant_right",
+            "s4TimelineName": "post_corner_left",
+            "s5TimelineName": "slant_right",
+            "s6TimelineName": "slant_right",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "",
+            "flashMessageTime": 0.0,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "block_left",
+            "l2TimelineName": "block_left",
+            "l3TimelineName": "block_left",
+            "l4TimelineName": "fill_window_left",
+            "cTimelineName": "square_engage_right",
+            "s1TimelineName": "qb_handoff_right",
+            "s2TimelineName": "get_tight_handoff_right",
+            "s3TimelineName": "kick_out_right",
+            "s4TimelineName": "stalk_right",
+            "s5TimelineName": "block_left",
+            "s6TimelineName": "kick_out_right",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "Run",
+            "flashMessageTime": 0.699999988079071,
+            "playerMotions": []
+        },
+        {
+            "l1TimelineName": "block_right",
+            "l2TimelineName": "fill_window_right",
+            "l3TimelineName": "block_left",
+            "l4TimelineName": "fill_window_left",
+            "cTimelineName": "square_engage_right",
+            "s1TimelineName": "uc_dive_right_triple",
+            "s2TimelineName": "mb_dive_right",
+            "s3TimelineName": "pitch_relation_right",
+            "s4TimelineName": "stalk_left",
+            "s5TimelineName": "block_left",
+            "s6TimelineName": "block_left",
+            "d1TimelineName": "",
+            "d2TimelineName": "",
+            "d3TimelineName": "",
+            "d4TimelineName": "",
+            "d5TimelineName": "",
+            "d6TimelineName": "",
+            "d7TimelineName": "",
+            "d8TimelineName": "",
+            "d9TimelineName": "",
+            "d10TimelineName": "",
+            "d11TimelineName": "",
+            "flashMessage": "Run",
+            "flashMessageTime": 0.699999988079071,
+            "playerMotions": []
+        }
+    ]
+}
